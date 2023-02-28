@@ -2,7 +2,7 @@
 Puissance 4 : deux joueurs s'affrontent pour aligner 4 jetons de même couleur
 Version : 1.0.0
 Author : John Doe
-
+#test
 Partie concernant l'interaction avec l'utilisateur
 '''
 
