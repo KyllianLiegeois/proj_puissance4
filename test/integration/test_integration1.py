@@ -48,5 +48,8 @@ def test_coup_gagnant():
     j = 0
     assert coup_gagnant(joueur, i, j, grille) == True
 
+def test_changer_joueur():
+    assert changer_joueur(0) == 1
+    assert changer_joueur(1) == 0
 
 
